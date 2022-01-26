@@ -1,0 +1,14 @@
+.AA{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 10px ;
+}
+.card{
+    border: none !important;
+    margin: 2px !important;
+}
+.ICON{
+    padding-left: -10px !important;
+}

@@ -1,0 +1,83 @@
+h3{
+     margin-left: 550px;
+     text-decoration: underline !important;
+      margin-top: 20px !important;
+    }
+
+.INPUT{
+   margin: 20px !important;
+   margin-top: 50px !important;
+}
+@media screen and (max-width: 1106px) {
+    h3 {
+        margin-left: 500px;
+    }
+}
+@media screen and (max-width: 1075px) {
+    h3 {
+        margin-left: 450px;
+    }
+}
+@media screen and (max-width: 1056px) {
+    h3 {
+        margin-left: 400px;
+    }
+}
+@media screen and (max-width: 1000px) {
+    h3 {
+        margin-left: 350px;
+    }
+}
+@media screen and (max-width: 915px) {
+    h3 {
+        margin-left: 300px;
+    }
+}
+@media screen and (max-width: 822px) {
+    h3 {
+        margin-left: 250px;
+    }
+}
+@media screen and (max-width: 742px) {
+    h3 {
+        margin-left: 220px;
+    }
+}
+@media screen and (max-width: 660px) {
+    h3 {
+        margin-left: 190px;
+    }
+}
+@media screen and (max-width: 580px) {
+    h3 {
+        margin-left: 150px;
+    }
+}
+@media screen and (max-width: 520px) {
+    h3 {
+        margin-left: 120px;
+    }
+}
+@media screen and (max-width: 448px) {
+    h3 {
+        margin-left: 100px;
+    }
+}
+@media screen and (max-width: 410px) {
+    h3 {
+        margin-left: 70px;
+    }
+}
+@media screen and (max-width: 360px) {
+    h3 {
+        margin-left: 45px;
+    }
+}
+@media screen and (max-width: 310px) {
+    h3 {
+        margin-left: 25px;
+    }
+}
+.Footer{
+    margin-top: 113px !important;
+}
